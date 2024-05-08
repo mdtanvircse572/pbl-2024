@@ -1,10 +1,10 @@
 <div align="center">
   
-  <img src="./readme-images/project-logo.png" />
+  <img src="./assets/images/TANRIDE.png" />
 
   <h2 align="center">Ridex - Car rent website</h2>
 
-  Ridex is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  TANRIDE is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://mdtanvircse572.github.io/pbl-2024/"><strong>➥ Live Demo</strong></a>
 
@@ -12,9 +12,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Ridex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -22,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Ridex** locally, run this command on your git bash:
+To run **TANRIDE** locally, run this command on your git bash:
 
 Linux and macOS:
 
